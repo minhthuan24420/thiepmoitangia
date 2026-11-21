@@ -185,7 +185,7 @@ body {
 .btn.primary { background: var(--gold); color: var(--red-deep); }
 .btn:hover, .btn:focus-visible { background: #ffe2a0; color: var(--red-deep); outline: none; }
 .countdown {
-  margin: 16px 0 0; color: #ffe2b0; font-style: italic; font-size: 15px; text-align: center;
+  margin: 20px 0 0; color: #ffe2b0; font-style: italic; font-size: 15px; text-align: center;
   padding-left: max(16px, env(safe-area-inset-left, 0px));
   padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
